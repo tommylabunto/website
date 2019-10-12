@@ -1,4 +1,4 @@
-baseURL = "https://xingtingkai.github.io"
+baseURL = "xingtingkai.com"
 title   = "[error]"
 
 DefaultContentLanguage = "en"
@@ -15,7 +15,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "xingtingkai.github.io"
+publishDir   = "public"
 
 buildDrafts  = false
 buildFuture  = false
@@ -75,7 +75,7 @@ disableHugoGeneratorInject = false
   themeColor = "#252627"
 
   [params.logo]
-    logoText     = "$ rm -rf milky_way/earth/"
+    logoText     = "$ rm -rf milky_way/earth"
     logoHomeLink = "/"
 
   # Social icons
